@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style1.css">
+    <title>Site Dev.</title>
+
+
+</head>
+  
+<body>
+<header>
+    <div id="title">
+        <h1>Nilton</h1>
+        <h2>Junior</h1>
+    </div>    
+
+        <ul>
+
+            <a href="#" id="bt_inicio"><li>Início</li></a> 
+            <a href="#" id="bt_ser"><li>Serviços</li></a>
+            <a href="#" id="bt_sob"><li>Sobre</li></a>
+            <a href="#" id="bt_cont"><li>Contato</li></a>
+            <a href="#" id="bt_perg"><li>Já tem uma conta?</li></a>
+        </ul>
+
+</header>
+    <main>
+        <aside>
+            <h2><span>Inscreva-se agora!</span></h2>
+            <h2>na Linding Page</h2>   
+            <p>
+                
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+            
+            </p> 
+            <form>
+                <input type="text" placeholder="Nome" size="20">
+                <input type="e-mail" placeholder="e-mail" size="30">
+                <input type="submit" value="Enviar >">
+                       
+            </form>              
+
+            
+        </aside>
+
+        <article>
+            <img src="./components/imagem/html5-logo-8.png" alt="cabeça codigo programção">
+            
+
+        
+        </article>
+    </main>
+    
+</body>
+</html>
